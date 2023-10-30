@@ -1,0 +1,14 @@
+{
+	"/": [],
+	"/NASA": [
+		"src/routes/NASA/+page.js"
+	],
+	"/about": [],
+	"/contact": [],
+	"/products": [
+		"src/routes/products/+page.js"
+	],
+	"/users": [
+		"src/routes/users/+page.js"
+	]
+}

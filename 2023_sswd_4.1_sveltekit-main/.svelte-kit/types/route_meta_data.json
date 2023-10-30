@@ -1,0 +1,23 @@
+{
+	"/": [],
+	"/about": [],
+	"/about/[name]": [
+		"src/routes/about/[name]/+page.js"
+	],
+	"/about/[name]/[repeat]": [
+		"src/routes/about/[name]/[repeat]/+page.js"
+	],
+	"/contact": [],
+	"/nasa": [
+		"src/routes/nasa/+page.server.js"
+	],
+	"/products": [
+		"src/routes/products/+page.js"
+	],
+	"/runningtotal": [
+		"src/routes/runningtotal/+page.js"
+	],
+	"/users": [
+		"src/routes/users/+page.js"
+	]
+}
